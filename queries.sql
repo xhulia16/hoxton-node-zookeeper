@@ -48,3 +48,7 @@ UPDATE animals
 SET origin= "Shkoder"
 WHERE id=3;
  
+--challenge
+
+UPDATE animals
+set fed="yes"
